@@ -1,0 +1,22 @@
+# Dirsearch started Wed Dec 25 22:44:43 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://lookup.thm/
+
+403   275B   http://lookup.thm/.ht_wsr.txt
+403   275B   http://lookup.thm/.htaccess.bak1
+403   275B   http://lookup.thm/.htaccess.sample
+403   275B   http://lookup.thm/.htaccess.save
+403   275B   http://lookup.thm/.htaccess.orig
+403   275B   http://lookup.thm/.htaccess_orig
+403   275B   http://lookup.thm/.htaccess_extra
+403   275B   http://lookup.thm/.htaccess_sc
+403   275B   http://lookup.thm/.htaccessBAK
+403   275B   http://lookup.thm/.html
+403   275B   http://lookup.thm/.htaccessOLD2
+403   275B   http://lookup.thm/.htaccessOLD
+403   275B   http://lookup.thm/.htpasswd_test
+403   275B   http://lookup.thm/.htpasswds
+403   275B   http://lookup.thm/.htm
+403   275B   http://lookup.thm/.httr-oauth
+403   275B   http://lookup.thm/.php
+200     1B   http://lookup.thm/login.php
+403   275B   http://lookup.thm/server-status
+403   275B   http://lookup.thm/server-status/
