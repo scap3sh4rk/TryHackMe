@@ -1,2 +1,2 @@
 # TryHackMe
-TryHackMe machines
+The machines i solve from THM
