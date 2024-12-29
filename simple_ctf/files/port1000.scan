@@ -1,0 +1,10 @@
+# Nmap 7.94SVN scan initiated Fri Dec 27 17:50:22 2024 as: /usr/lib/nmap/nmap --privileged -p- -oN port1000.scan 10.10.114.190
+Nmap scan report for 10.10.114.190
+Host is up (0.21s latency).
+Not shown: 65532 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+21/tcp   open  ftp
+80/tcp   open  http
+2222/tcp open  EtherNetIP-1
+
+# Nmap done at Fri Dec 27 17:59:04 2024 -- 1 IP address (1 host up) scanned in 522.35 seconds
