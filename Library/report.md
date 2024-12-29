@@ -1,5 +1,7 @@
+![image](https://github.com/user-attachments/assets/f5c1cd5c-87bf-49ef-91d5-00098e113977)
+
 # Report Library CTF
-The machine can be found in TryHackme [Link]("https://tryhackme.com/r/room/bsidesgtlibrary")
+The machine can be found in TryHackme [Link](https://tryhackme.com/r/room/bsidesgtlibrary)
 ## Scan
 I have used Nmap to find the open ports and found the port 22(SSH) and 80 (http) open.
 Once i found the http open port i have visited the link the IP Address it refered to & found a username saying `meliodas`.
