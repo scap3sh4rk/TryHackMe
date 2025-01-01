@@ -1,4 +1,4 @@
-![Head](/assets/Head.png)
+![Head](/simple_ctf/assets/Head.png)
 # Report for simple CTF
 Link : [simpleCtf](https://tryhackme.com/r/room/easyctf)
 ### Services running under port 1000
