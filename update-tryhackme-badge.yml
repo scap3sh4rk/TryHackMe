@@ -19,3 +19,4 @@ jobs:
         image_path: './assets/tryhackme-badge.png'
         username: 'scap3sh4rk'
         user_id: 'scap3sh4rk'
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
