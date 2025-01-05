@@ -1,13 +1,13 @@
 # Report Thompson 
 [![Header.png](./assets/Header.png)](https://tryhackme.com/r/room/bsidesgtthompson)
-### NEW learning 
+## New Learning 
 - msfpayload 
 This is the feature of metasploit that is helpful to create a payload with the 
 options set up. such as LHOSTS, LPORT etc.
 We can create executables of different formates based on the target server. 
 
 
-### Tomcat:
+## Tomcat:
 It is a webserver that is used to host java based websites.
 This server there is somewhere an option to opload a war file.
 
@@ -18,7 +18,7 @@ we get to see that there is an user called jack and has the user.txt
 Once we had access to the reverse shell. we are now able to login using the tomcat
 but we have the ssh open port lets see something is possible using ssh
 
-### Into Jacks home
+## Into Jacks Home
 In the /home/jack, there are the files as listed below
 
 ```bash
@@ -28,12 +28,12 @@ total 12
 -rw-r--r-- 1 root root 39 Dec 26 09:22 test.txt
 -rw-rw-r-- 1 jack jack 33 Aug 14  2019 user.txt
 ```
-The id.sh is executing and putting the id output into the test.txt and in the same way we add the code.
+The `id.sh` is executing and putting the id output into the test.txt and in the same way we add the code.
  
 ```bash
 echo "cp /root/root.txt /home/jack/root.txt" >> id.sh
 ```
-### Now we execute the code 
+## Now We Execute the Code 
 Maybe jack has enough previlages to copy the file from the root is one reason since the file is hetting copied to the current directory after runnin `id.sh` in the terminal.
 [CLARIFIED BELOW]
 Now we can see the contents of the file.
@@ -63,7 +63,7 @@ cat root.txt
 d89d5391984c0450a95497153ae7ca3a
 
 ```
-### CLARIFICATION
+## CLarification
 Here is the clarification i have got after checking a writeup.
 There is a linux tool software that automatically executes a command based on the frequence and the tool called `corntab`.
 Here also the same scenirio has happened. The software is running in the background called as corntab and it executes everyminute the id.sh
@@ -105,10 +105,10 @@ And i got the shell after a minute since it executes automatically
 The screenshot in the same directory shows it.
 
 ```
-You can use `linPEAS` to detect this. [PRovided you have access to ssh account]
+You can use `linPEAS` to detect this. [Provided you have access to ssh account]
 ```bash
 scp -P 22 /path/to/linPEAS.sh username@IP:/path/to/dest/to/save/linPEAS.sh
 ```
 This is helpless in this task unless we get access to the ssh credentials.
-#### References 
+### References 
 [url]("https://bobloblaw321.wixsite.com/website/post/tryhackme-thompson")
