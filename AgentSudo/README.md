@@ -8,7 +8,7 @@ we can see the nmap scan report in `nmap.scan`
 There is a clue that user agent should be masked to `R`.
 Use burpsuite to do so.
 ![Burpsuite](./assets/user-agent.png)
-In the abobe picture we can see that i have changed the useragent to be `R`
+In the above picture we can see that i have changed the useragent to be `R`
 we can achieve the same using `curl`
 ```bash
 curl -A "R" -L <Ip address>
