@@ -19,4 +19,3 @@ jobs:
         image_path: './assets/tryhackme-badge.png'
         username: 'scap3sh4rk'
         user_id: 'scap3sh4rk'
-        GITHUB_TOKEN: ${{ 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 }}
