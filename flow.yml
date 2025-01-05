@@ -1,0 +1,3 @@
+              - name: TryHackMe Badge Action Workflow
+                uses: DhanushNehru/tryhackme-badge-action-workflow@v1.0
+            
