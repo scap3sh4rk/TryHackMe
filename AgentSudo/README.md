@@ -1,5 +1,5 @@
 # Report on Agent Sudo
-![Header](./assets/Header.png)
+[![Header](./assets/Header.png)](https://tryhackme.com/r/room/agentsudoctf)
 
 # Enumiration 
 1. The no of ports open -> **3**
