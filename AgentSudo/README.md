@@ -48,6 +48,7 @@ I used `stegseek` to do the same
 stegseek <filename>
 ```
 ![setegseek](./assets/stegseek.png)
+
 [output-file](./files/cute-alien.jpg.out)
 
 ```bash
