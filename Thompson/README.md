@@ -111,4 +111,4 @@ scp -P 22 /path/to/linPEAS.sh username@IP:/path/to/dest/to/save/linPEAS.sh
 ```
 This is helpless in this task unless we get access to the ssh credentials.
 ### References 
-[url]("https://bobloblaw321.wixsite.com/website/post/tryhackme-thompson")
+[url](https://bobloblaw321.wixsite.com/website/post/tryhackme-thompson)
