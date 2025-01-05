@@ -3,8 +3,8 @@
 
 # Enumiration 
 1. The no of ports open -> **3**
-we can see the nmap scan report in `nmap.scan`
 
+we can see the nmap scan report in `nmap.scan`
 There is a clue that user agent should be masked to `R`.
 Use burpsuite to do so.
 ![Burpsuite](./assets/user-agent.png)
