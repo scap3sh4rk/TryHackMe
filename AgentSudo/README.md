@@ -26,11 +26,10 @@ The above user returs some secreat..
 Its the username.
 refer [curl-c.txt](./files/curl-c.txt)
 
-3. What is the agent name? **chris**
+3. What is the agent name? -> **chris**
 
 # Bruteforce
-1. FTP password
-A. refer [ftp-bruteforce](./files/ftp-bruteforce.txt)
+1. FTP password -> *refer [ftp-bruteforce](./files/ftp-bruteforce.txt)*
 
 once am into the FTP, i have seen 3 files, got them to my host and then started ro extracte any hidden files using binwalk.
 ```bash
@@ -39,7 +38,7 @@ binwalk -e <filename>
 2. Zip file password
 Found hidden zip file `8072.zip`.
 Its a password protedcted zip file and used john to extract the password
-refer [8072.zip](./files/8702-zip-password.txt )
+*refer [8072.zip](./files/8702-zip-password.txt )*
 
 3. Steg password 
 And the other file `cute-alien.jpg` -> being a jpg file, there is a prossibility to extracte stegs from the file.
@@ -60,9 +59,11 @@ StegSeek 0.6 - https://github.com/RickdeJager/StegSeek
 [i] Extracting to "cute-alien.jpg.out".
 ```
 4. Who is the other agent (in full name)?
+
 [output-file](./files/cute-alien.jpg.out)
 
-5. SSH password
+7. SSH password
+
 `hackerrules!`
 [output-file](./files/cute-alien.jpg.out)
 
