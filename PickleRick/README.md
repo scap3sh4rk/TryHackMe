@@ -1,5 +1,5 @@
 # Report for PickelRick
-[![](./assets/header)](https://tryhackme.com/r/room/picklerick)
+[![Header](./assets/header.png)](https://tryhackme.com/r/room/picklerick)
 While inspecting the web page, I got this in the home page 
 `R1ckRul3s`.
 ## Tool
