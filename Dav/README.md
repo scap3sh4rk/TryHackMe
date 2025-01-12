@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/79c68b65-b994-4e8d-bfb5-1d51c9390bcb)
 
 # webDEV Writeup
-Here is the web dev writeup from try hack me [link](https://tryhackme.com/r/room/bsidesgtdav)
+Here is the web dev challange from TryHackMe [link](https://tryhackme.com/r/room/bsidesgtdav)
 ## Enumiration
 Used nmap to find the open ports in the server.
 ```bash
@@ -43,4 +43,5 @@ listen to the ip address and then we can access the shell
 I saw that the /bin/cat command can be accessed by the `www-data` used with sudo previlags and thats it we can cat the crediantials in root.
 ## Here are the flags
 user.txt -> 449b40fe93f78a938523b7e4dcd66d2a
+
 root.txt -> 101101ddc16b0cdf65ba0b8a7af7afa5
