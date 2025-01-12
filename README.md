@@ -12,6 +12,7 @@
 | Library               | [Library-writeup](/Library)           |       |  ✅    |
 | Linux_Incident_Surface| [Linux Incident Surface-writeup](/Linux_Incident_Surface) |                              |   ✅   |
 | Lookup                | [Lookup-writeup](/Lookup)             | Half Done                    |  🟡    |
+| PickleRick            | [PickleRick-writeup](/PickleRick)     | Detailed walkthrough to be done |  🟡    |
 | Thompson              | [Thompson-writeup](/Thompson)         |                      |  ✅    |
 | basic-pentesting      | [Basic Pentesting-writeup](/basic-pentesting) | Add Header      |  🟡    |
 | blog/reports          | [Blog-writeup](/blog/reports)         |              |   ❌   |
