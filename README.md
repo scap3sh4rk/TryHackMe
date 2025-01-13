@@ -5,14 +5,14 @@
 |         Room           |                Writeup                 |            Description              | Status |
 |------------------------|----------------------------------------|-------------------------------------|--------|
 | AgentSudo             | [AgentSudo-writeup](/AgentSudo)       |                 |  ✅    |
-| Anonforce             | [Anonforce-writeup](/Anonforce)       | Havent started              |  🟡    |
+| Anonforce             | [Anonforce-writeup](/Anonforce)       | Haven't started writeup            |  🟡    |
 | Dav                   | [Dav-writeup](/Dav)                   |                   |  ✅    |
-| Fowsniff              | [Fowsniff-writeup](/Fowsniff)         | Havent started writeup               |  🟡    |
+| Fowsniff              | [Fowsniff-writeup](/Fowsniff)         | Haven't started writeup               |  🟡    |
 | Ignite                | [Ignite-writeup](/Ignite)             |                         |  ❌    |
 | Library               | [Library-writeup](/Library)           |       |  ✅    |
 | Linux_Incident_Surface| [Linux Incident Surface-writeup](/Linux_Incident_Surface) |                              |   ✅   |
-| Lookup                | [Lookup-writeup](/Lookup)             | Half Done                    |  🟡    |
-| PickleRick            | [PickleRick-writeup](/PickleRick)     | Detailed walkthrough to be done |  🟡    |
+| Lookup                | [Lookup-writeup](/Lookup)             | Half Done with writeup                    |  🟡    |
+| PickleRick            | [PickleRick-writeup](/PickleRick)     | Haven't started writeup |  🟡    |
 | Thompson              | [Thompson-writeup](/Thompson)         |                      |  ✅    |
 | basic-pentesting      | [Basic Pentesting-writeup](/basic-pentesting) | Add Header      |  🟡    |
 | blog/reports          | [Blog-writeup](/blog/reports)         |              |   ❌   |
