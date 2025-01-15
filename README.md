@@ -22,7 +22,7 @@
 | osint                 | [OSINT-Files](/osint)                 | OSINT resources and tools          |   -    |
 | simple_ctf            | [Simple CTF-writeup](/simple_ctf)     |              |   ✅   |
 | sticker_shop          | [Sticker Shop-writeup](/sticker_shop) |               |   ❌   |
-
+| Whiterose		| [Whiteroce-Writeup](/Whiterose)	| Detailing pending	| ❌ |
 
 
 - ✅ -> Report Complete
