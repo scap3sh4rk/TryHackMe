@@ -2,7 +2,7 @@
 ![](/assets/Profile.png)
 
 ## Rooms & Writeups
-|         Room           |                Writeup                 |            Description              | Status |
+|         Room           |           Writeup/Directory            |            Description              | Status |
 |------------------------|----------------------------------------|-------------------------------------|--------|
 | AgentSudo             | [AgentSudo-writeup](/AgentSudo)       |                 |  ✅    |
 | Anonforce             | [Anonforce-writeup](/Anonforce)       | Haven't started writeup            |  🟡    |
