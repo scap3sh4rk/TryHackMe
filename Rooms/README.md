@@ -1,5 +1,5 @@
 # TryHackMe
-![](../assets/Profile.png)
+![](/assets/Profile.png)
 
 ## Rooms & Writeups
 |         Room           |                Writeup                 |            Description              | Status |
