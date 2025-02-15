@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Mon Dec 23 18:23:54 2024 as: /usr/lib/nmap/nmap --privileged -A -p- -sV -oN nmap_agg-scan.txt 10.10.94.207

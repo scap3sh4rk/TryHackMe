@@ -1,0 +1,28 @@
+# Dirsearch started Mon Dec 23 18:35:30 2024 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u 10.10.94.207
+
+403   298B   http://10.10.94.207/.ht_wsr.txt
+403   303B   http://10.10.94.207/.htaccess.sample
+403   301B   http://10.10.94.207/.htaccess.save
+403   301B   http://10.10.94.207/.htaccess.bak1
+403   301B   http://10.10.94.207/.htaccess.orig
+403   302B   http://10.10.94.207/.htaccess_extra
+403   299B   http://10.10.94.207/.htaccess_sc
+403   299B   http://10.10.94.207/.htaccessBAK
+403   299B   http://10.10.94.207/.htaccessOLD
+403   300B   http://10.10.94.207/.htaccessOLD2
+403   301B   http://10.10.94.207/.htaccess_orig
+403   291B   http://10.10.94.207/.htm
+403   292B   http://10.10.94.207/.html
+403   301B   http://10.10.94.207/.htpasswd_test
+403   298B   http://10.10.94.207/.httr-oauth
+403   297B   http://10.10.94.207/.htpasswds
+301   313B   http://10.10.94.207/assets    -> REDIRECTS TO: http://10.10.94.207/assets/
+200   472B   http://10.10.94.207/assets/
+301   313B   http://10.10.94.207/images    -> REDIRECTS TO: http://10.10.94.207/images/
+200   507B   http://10.10.94.207/images/
+200     6KB  http://10.10.94.207/LICENSE.txt
+200   774B   http://10.10.94.207/README.txt
+200    26B   http://10.10.94.207/robots.txt
+200   228B   http://10.10.94.207/security.txt
+403   300B   http://10.10.94.207/server-status
+403   301B   http://10.10.94.207/server-status/
