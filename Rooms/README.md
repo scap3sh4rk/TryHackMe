@@ -10,7 +10,6 @@
 | Fowsniff              | [Fowsniff-writeup](/Fowsniff)         | Haven't started writeup               |  🟡    |
 | Ignite                | [Ignite-writeup](/Ignite)             |                         |  ❌    |
 | Library               | [Library-writeup](/Library)           |       |  ✅    |
-| Linux_Incident_Surface| [Linux Incident Surface-writeup](/Linux_Incident_Surface) |                              |   ✅   |
 | Lookup                | [Lookup-writeup](/Lookup)             | Half Done with writeup                    |  🟡    |
 | PickleRick            | [PickleRick-writeup](/PickleRick)     | Haven't started writeup |  🟡    |
 | Thompson              | [Thompson-writeup](/Thompson)         |                      |  ✅    |
