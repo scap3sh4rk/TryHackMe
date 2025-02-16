@@ -2,19 +2,7 @@
 ![](/assets/Profile.png)
 ---
 
-## Walkthroughs
-|         Walkthrough           |                Writeup/Directory                          |            Description              | Status |
-|-------------------------------|-----------------------------------------------------------|-------------------------------------|--------|
-| Linux_Incident_Surface        | [Linux Incident Surface-writeup](/Linux_Incident_Surface) |                                     |   ✅   |
 
----
-
-## Modules
-|         Module              |                Directory/Directory                          |            Mod-Topics               | Status |
-|-----------------------------|-------------------------------------------------------------|-------------------------------------|--------|
-| Network Exploitation Basics |
-
----
 ## Rooms & Writeups
 |         Room           |           Writeup/Directory            |            Description              | Status |
 |------------------------|----------------------------------------|-------------------------------------|--------|
@@ -36,6 +24,21 @@
 | simple_ctf             | [Simple CTF-writeup](/Rooms/simple_ctf)     |              |   ✅   |
 | sticker_shop           | [Sticker Shop-writeup](/Rooms/sticker_shop) |               |   ❌   |
 | Whiterose		 | [Whiteroce-Writeup](/Rooms/Whiterose)	| Detailing pending	| ❌ |
+
+
+## Walkthroughs
+|         Walkthrough           |                Writeup                                    |            Description                | Status |
+|-------------------------------|-----------------------------------------------------------|---------------------------------------|--------|
+| Linux_Incident_Surface        | [Linux Incident Surface-writeup](/Linux_Incident_Surface) | Various insident surfaces on linux os |   ✅  |
+| Introductory Networking       | [Introductory Networking](/IntroductoryNetworking)        |					                              |   ❌  |
+
+
+
+## Modules
+|         Module                |                Directory                                  |            Module-Topics                                           | Status |
+|-------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|--------|
+| Network_exploitation_Basics   | [Network_exploitation_basics](/Network_Exploitation_Basics)| - [Introductory Networking](../WalkThrough/IntroductoryNetworking) <br> - [Nmap](../WalkThroughs/Nmap) <br> - [Network services](../WalkThroughs/Network_Services) <br> - [Network Services 2](../WalkThroughs/Network_Services-02) |  ❌   |
+
 
 
 - ✅ -> Report Complete
