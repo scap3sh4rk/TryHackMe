@@ -29,8 +29,8 @@
 ## Walkthroughs
 |         Walkthrough           |                Writeup                                    |            Description                | Status |
 |-------------------------------|-----------------------------------------------------------|---------------------------------------|--------|
-| Linux_Incident_Surface        | [Linux Incident Surface-writeup](/Linux_Incident_Surface) | Various insident surfaces on linux os |   ✅  |
-| Introductory Networking       | [Introductory Networking](/IntroductoryNetworking)        |					                              |   ❌  |
+| Linux_Incident_Surface        | [Linux Incident Surface-writeup](/Walkthrough/Linux_Incident_Surface) | Various insident surfaces on linux os |   ✅  |
+| Introductory Networking       | [Introductory Networking](/Walkthrough/IntroductoryNetworking)        |					                              |   ❌  |
 
 
 
