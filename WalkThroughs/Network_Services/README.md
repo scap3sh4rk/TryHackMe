@@ -25,3 +25,32 @@ widely used in windows
 Tenlet is
 ### Task 5: Understanding Tenlet
 
+1. application protocol
+2. ssh
+3. telnet 10.10.10.3 23
+4. encryption
+
+### Task 6: Enumerating Telnet
+1. 1
+2. 8012
+3. tcp
+4. 0
+5. -
+6. A Backdoor
+7. skidy
+8. -
+
+### Task 7: Exploiting Telnet
+1. -
+2. SKIDY'S BACKDOOR.
+3. N
+4. -
+#### Tcp Dump
+```
+sudo tcpdump ip proto \\icmp -i tun0
+```
+This command dumps all the traffic to the terminal and that is specific to icmp protocol on the interface tun0
+5. -
+6. N
+7. -
+8.  
