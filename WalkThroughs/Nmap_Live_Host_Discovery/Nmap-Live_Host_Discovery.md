@@ -69,3 +69,15 @@
 3. -PS23
 
 ## Task 8 Reverse DNS lookup
+- `-n` flag to not to perform reverse DNS lookup. Because Nmap by default does this for the hosts that are online.
+- If you want to perform the `DNS lookup` for all the devices (Including offline), you can go with the flag `-R`.
+
+#### Answers
+1. -R
+
+## Summary
+- Remember any response from the target indicated that the host is `Online`
+- Remember that this is `host discovery` which is generally different from `Port scanning`
+- If you were only intersted in the `host discovery` Remmeber to add `-sn` or Nmap will proceed with port scan of 1st `1000` ports on the targets that are discovered.
+![image](https://github.com/user-attachments/assets/e01e071b-f17c-408a-9d4e-f1fbb1bb7cc5)
+![image](https://github.com/user-attachments/assets/890b00f2-61ae-4aaa-9fcb-51ef33c82514)
