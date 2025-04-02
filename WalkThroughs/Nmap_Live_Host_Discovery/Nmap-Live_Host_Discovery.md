@@ -45,3 +45,27 @@
 3. -PE
 
 ## Task 7 Host Discovery Using TCP & UDP
+#### TCP SYN Ping [-PS] 
+- Use either `sS` or `-PS`, Here there is a catch, `sS` is a TCP port scan technique and `-PS` is a TCP ping scan technique. Need previliged account
+![image](https://github.com/user-attachments/assets/b7665a28-1bb5-492a-af05-b3ba6a0dadb4)
+- Default if we use `-PS` the scanned port is `80` on the target machine.
+- If we want to specify the port you can go with `-PS443,12,11` so on.
+- Remember these are a `host discovery` techniques.
+- The flag starting from `P` => Its a ping (Assumption).
+- Technically any service running on the specific ports are expected to `reply` to the TCP SYN message.
+
+#### TCP ACK ping [-PA]
+- `TCP` packet with the `ACK` flag set is sent. Requires a Previliged account
+- Port mentioning is as same as the before case `-PA21,22,12` and so on.
+- Expects a `RST` flag set TCP response accepting that the Host is UP.
+
+#### UDP Ping [-PU]
+- `UDP` Packet sent to a port is not expected to get any replay because `UDP` Never bother about the end user recieveing the packet.
+- If the host is up, UDP doesn't probably send any packet, but if its down, `Host UNreachable` Message is sent back accepting the exsistance of the device.
+
+#### Answers
+1. TCP SYN Ping
+2. TCP ACK ping
+3. -PS23
+
+## Task 8 Reverse DNS lookup
