@@ -46,6 +46,7 @@ Can be used to spoof the ip address of our machine
 3. TCP Xmas Scans `(-sX)`
 
 ## Scan Types in Detail
+
 ### Full scan
 1. TCP scan (-sT)
 - SYN, SYN/ACK, ACK handhake happens and called complete handshake 
