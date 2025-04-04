@@ -30,7 +30,9 @@
 |         Walkthrough           |                Writeup                                    |            Description                | Status |
 |-------------------------------|-----------------------------------------------------------|---------------------------------------|--------|
 | Linux_Incident_Surface        | [Linux Incident Surface-writeup](./WalkThroughs/Linux_Incident_Surface) | Various insident surfaces on linux os |   ✅  |
-| Introductory Networking       | [Introductory Networking](./WalkThroughs/IntroductoryNetworking)        |					                              |   ❌  |
+| Introductory Networking       | [Introductory Networking](./WalkThroughs/IntroductoryNetworking)        |					                              |  ➖   |
+| Nmap Live Host Discovery      | [Nmap Live Host Discovery](./WalkThroughs/Nmap_Live_Host_Discovery/Nmap-Live_Host_Discovery.md)     | Host discovery on the nrtwork using various methodologies, <br> - PING <br> - TCP <br> - UDP scan, etc |✅ |
+
 
 
 
@@ -38,12 +40,14 @@
 |         Module                |                Directory                                  |            Module-Topics                                           | Status |
 |-------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|--------|
 | Network_exploitation_Basics   | [Network_exploitation_basics](./Modules/Network_Exploitation_Basics)| - [Introductory Networking](./WalkThroughs/IntroductoryNetworking) <br> - [Nmap](./WalkThroughs/Nmap) <br> - [Network services](./WalkThroughs/Network_Services) <br> - [Network Services 2](./WalkThroughs/Network_Services-02) |  ❌   |
+| Nmap                          | [Nmap](./Modules/Nmap) | - [Nmap Live Host Discovery](WalkThroughs/Nmap_Live_Host_Discovery/Nmap-Live_Host_Discovery.md) <br> - [Nmap Basic Port Scans](https://tryhackme.com/room/nmap02) <br> - [Nmap Advanced Port Scans](https://tryhackme.com/room/nmap03) <br> - [Nmap Post Port Scans](https://tryhackme.com/room/nmap04) | 🔄 [Premium necessary]|
 
 
 
 - ✅ -> Report Complete
 - 🟡 -> Room Complete, Report In progerss.
-- `-` -> Report unnecessory
+- ➖ -> Report unnecessory
 - ❌ -> Room Incomplete.
+- 🔄 -> To be done soon.
 
 
