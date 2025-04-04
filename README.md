@@ -32,7 +32,9 @@
 | Linux_Incident_Surface        | [Linux Incident Surface-writeup](./WalkThroughs/Linux_Incident_Surface) | Various insident surfaces on linux os |   ✅  |
 | Introductory Networking       | [Introductory Networking](./WalkThroughs/IntroductoryNetworking)        |					                              |  ➖   |
 | Nmap Live Host Discovery      | [Nmap Live Host Discovery](./WalkThroughs/Nmap_Live_Host_Discovery/Nmap-Live_Host_Discovery.md)     | Host discovery on the nrtwork using various methodologies, <br> - PING <br> - TCP <br> - UDP scan, etc |✅ |
-
+| Networking Services           | [Networking sercices](./WalkThroughs/Network_Services)                  | Enumiration and basic of different services such as <br> - SMB <br> - Telnet <br> - FTP <br>, etc | ❌ | 
+| Nmap                           | [Nmap](./WalkThroughs/Nmap)                                            | Basic scan, variuous types of scans | ✅ |
+<br>
 
 
 
