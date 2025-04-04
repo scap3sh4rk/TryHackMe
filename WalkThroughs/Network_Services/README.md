@@ -1,5 +1,7 @@
 # Network Services
-[Link](https://tryhackme.com/room/networkservices)
+
+![[Network Services](https://tryhackme.com/room/networkservices)](https://github.com/user-attachments/assets/0217ac4b-9f9d-4e73-8b3a-7565d13793c9)
+
 ##
 SMB : stands for server message block which is used to access the files and file syustems remotly over the internet
 widely used in windows
