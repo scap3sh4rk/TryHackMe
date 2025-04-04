@@ -3,6 +3,6 @@
 
 ### Related Walkthroughs
 - Nmap Live Host Discovery
-- Nmap Basic Port Scans [🔄 Premium necessary]
-- Nmap Advanced Port Scans [🔄 Premium necessary]
-- Nmap Post Port Scans [🔄 Premium necessary]
+- Nmap Basic Port Scans [🔄 _Premium necessary_]
+- Nmap Advanced Port Scans [🔄 _Premium necessary_]
+- Nmap Post Port Scans [🔄 _Premium necessary_]
