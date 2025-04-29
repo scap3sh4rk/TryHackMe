@@ -18,7 +18,7 @@
 ## Task 5 Host Discovery using ARP
 #### ARP scan 
 - Should run in `sudo`.
-- sudo nmap -PR -sn 192.168.14.184/24 [Performs an ARP Scan over the interface the ipaddress has route on]
+- `sudo nmap -PR -sn 192.168.14.184/24` [Performs an ARP Scan over the interface the ipaddress has route on]
 - Need to be in the subnet. ie, `/24`.
 - `arp-scan` is a tool that does the same thing as the commend mentioned in second point does. The following screenshot shows the impact in wireshark.
 ![image](https://github.com/user-attachments/assets/8c95cdc4-da43-48cd-9b9f-ca9abb542e73)
