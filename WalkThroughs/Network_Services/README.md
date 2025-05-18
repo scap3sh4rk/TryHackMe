@@ -56,3 +56,8 @@ This command dumps all the traffic to the terminal and that is specific to icmp 
 6. N
 7. -
 8.  
+#### msfvenom 
+9. mkfifo
+10. nc -lnvp 4444
+11. -
+12. THM{y0u_g0t_th3_t3ln3t_fl4g}
