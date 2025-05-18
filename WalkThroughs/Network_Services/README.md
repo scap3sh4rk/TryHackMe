@@ -61,3 +61,15 @@ This command dumps all the traffic to the terminal and that is specific to icmp 
 10. nc -lnvp 4444
 11. -
 12. THM{y0u_g0t_th3_t3ln3t_fl4g}
+
+### Task 8 Understanding Telnet
+#### Active vs Passive
+
+The FTP server may support either Active or Passive connections, or both. 
+
+- In an Active FTP connection, the client opens a port and listens. The server is required to actively connect to it. 
+- In a Passive FTP connection, the server opens a port and listens (passively) and the client connects to it. 
+
+
+// The end, Stopping un necessary writeups to save time
+
