@@ -1,0 +1,6 @@
+msf6 auxiliary(scanner/smtp/smtp_enum) > run
+[*] 10.10.21.186:25       - 10.10.21.186:25 Banner: 220 polosmtp.home ESMTP Postfix (Ubuntu)
+
+[+] 10.10.21.186:25       - 10.10.21.186:25 Users found: administrator
+[*] 10.10.21.186:25       - Scanned 1 of 1 hosts (100% complete)
+[*] Auxiliary module execution completed

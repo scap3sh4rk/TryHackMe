@@ -1,0 +1,25 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-05-18 11:51 EDT
+Initiating Ping Scan at 11:51
+Scanning 10.10.107.216 [4 ports]
+Completed Ping Scan at 11:51, 0.19s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 11:51
+Completed Parallel DNS resolution of 1 host. at 11:51, 0.01s elapsed
+DNS resolution of 1 IPs took 0.01s. Mode: Async [#: 1, OK: 0, NX: 1, DR: 0, SF: 0, TR: 1, CN: 0]
+Initiating SYN Stealth Scan at 11:51
+Scanning 10.10.107.216 [1000 ports]
+Discovered open port 22/tcp on 10.10.107.216
+Discovered open port 111/tcp on 10.10.107.216
+Discovered open port 2049/tcp on 10.10.107.216
+Completed SYN Stealth Scan at 11:51, 1.88s elapsed (1000 total ports)
+Nmap scan report for 10.10.107.216
+Host is up, received echo-reply ttl 60 (0.16s latency).
+Scanned at 2025-05-18 11:51:22 EDT for 2s
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE REASON
+22/tcp   open  ssh     syn-ack ttl 60
+111/tcp  open  rpcbind syn-ack ttl 60
+2049/tcp open  nfs     syn-ack ttl 60
+
+Read data files from: /usr/share/nmap
+Nmap done: 1 IP address (1 host up) scanned in 2.19 seconds
+           Raw packets sent: 1072 (47.144KB) | Rcvd: 1069 (42.760KB)

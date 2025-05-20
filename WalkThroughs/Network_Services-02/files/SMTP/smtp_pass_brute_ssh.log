@@ -1,0 +1,24 @@
+Hydra v9.5 (c) 2023 by van Hauser/THC & David Maciejak - Please do not use in military or secret service organizations, or for illegal purposes (this is non-binding, these *** ignore laws and ethics anyway).
+
+Hydra (https://github.com/vanhauser-thc/thc-hydra) starting at 2025-05-19 06:17:37
+[DATA] max 4 tasks per 1 server, overall 4 tasks, 14344399 login tries (l:1/p:14344399), ~3586100 tries per task
+[DATA] attacking ssh://10.10.21.186:22/
+[VERBOSE] Resolving addresses ... [VERBOSE] resolving done
+[INFO] Testing if password authentication is supported by ssh://administr@10.10.21.186:22
+[INFO] Successful, password authentication is supported by ssh://10.10.21.186:22
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "123456" - 1 of 14344399 [child 0] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "12345" - 2 of 14344399 [child 1] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "123456789" - 3 of 14344399 [child 2] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "password" - 4 of 14344399 [child 3] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "iloveyou" - 5 of 14344399 [child 3] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "princess" - 6 of 14344399 [child 0] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "1234567" - 7 of 14344399 [child 1] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "rockyou" - 8 of 14344399 [child 2] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "12345678" - 9 of 14344399 [child 3] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "abc123" - 10 of 14344399 [child 0] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "nicole" - 11 of 14344399 [child 1] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "daniel" - 12 of 14344399 [child 2] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "babygirl" - 13 of 14344399 [child 3] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "monkey" - 14 of 14344399 [child 0] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "lovely" - 15 of 14344399 [child 1] (0/0)
+[ATTEMPT] target 10.10.21.186 - login "administr" - pass "jessica" - 16 of 14344399 [child 2] (0/0)

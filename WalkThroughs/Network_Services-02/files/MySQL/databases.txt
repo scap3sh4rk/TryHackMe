@@ -1,0 +1,7 @@
+msf6 auxiliary(admin/mysql/mysql_sql) > run
+[*] Running module against 10.10.156.112
+[*] 10.10.156.112:3306 - Sending statement: 'show databases'...
+[*] 10.10.156.112:3306 -  | information_schema |
+[*] 10.10.156.112:3306 -  | mysql |
+[*] 10.10.156.112:3306 -  | performance_schema |
+[*] 10.10.156.112:3306 -  | sys |
