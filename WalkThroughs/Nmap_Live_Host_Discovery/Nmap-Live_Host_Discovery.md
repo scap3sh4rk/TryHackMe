@@ -13,7 +13,7 @@
 3. 1
 4. router
 5. computer5
-6. y
+6. n
 
 ## Task 5 Host Discovery using ARP
 #### ARP scan 
